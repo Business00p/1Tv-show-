@@ -494,11 +494,11 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
  எப்படி மற்றும் என்ன செய்ய வேண்டும்
 
- படி 1: இந்த VJ-FILTER-BOT போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
+ படி 1: இந்த Tv Show போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
 
  படி 2: உங்கள் இணையதளம் மற்றும் API ஐச் சேர்க்கவும்
 
- Exp: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ Exp: /shortlink mypowerlinks.org f3e45c66784d6142d92867be1ff0816b1606547f
 
  வீடியோவைச் சேர்க்கவும்
 
@@ -521,11 +521,11 @@ Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a>
 
  How and what to do
 
- Step 1: Administer this VJ-FILTER-BOT bot to your group
+ Step 1: Administer this Tv Show bot to your group
 
  Step 2: Add your website and API
 
- Exp: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ Exp: /shortlink mypowerlinks.org f3e45c66784d6142d92867be1ff0816b1606547f
 
  Add a video
 
@@ -548,11 +548,11 @@ Also your tutorial will be Added Your Group..."""
 
  ఎలా మరియు ఏమి చేయాలి
 
- దశ 1: ఈ VJ-FILTER-BOT బాట్‌ని మీ సమూహానికి నిర్వహించండి
+ దశ 1: ఈ Tv Show బాట్‌ని మీ సమూహానికి నిర్వహించండి
 
  దశ 2: మీ వెబ్‌సైట్ మరియు APIని జోడించండి
 
- గడువు: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ గడువు: /shortlink mypowerlinks.org f3e45c66784d6142d92867be1ff0816b1606547f
 
  వీడియోను జోడించండి
 
@@ -575,11 +575,11 @@ Also your tutorial will be Added Your Group..."""
 
  कैसे और क्या करना है
 
- चरण 1: इस फ़िल्टर-बॉट बॉट को अपने समूह में प्रशासित करें
+ चरण 1: इस Tv Show बॉट को अपने समूह में प्रशासित करें
 
  चरण 2: अपनी वेबसाइट और एपीआई जोड़ें
 
- एक्सप: /शॉर्टलिंक omegalinks.in 4b392f8eb6ad711fbe58
+ एक्सप: /शॉर्टलिंक mypowerlinks.org f3e45c66784d6142d92867be1ff0816b1606547f
 
  एक वीडियो जोड़ें
 
@@ -602,11 +602,11 @@ Also your tutorial will be Added Your Group..."""
 
  എങ്ങനെ, എന്ത് ചെയ്യണം
 
- ഘട്ടം 1: ഈ തലപതി-ഫിൽട്ടർ-ബോട്ട് ബോട്ട് നിങ്ങളുടെ ഗ്രൂപ്പിലേക്ക് നൽകുക
+ ഘട്ടം 1: ഈ  ഗ്രൂപ്പിലേക്ക് നൽകുക
 
  ഘട്ടം 2: നിങ്ങളുടെ വെബ്‌സൈറ്റും API-യും ചേർക്കുക
 
- കാലഹരണപ്പെടൽ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ കാലഹരണപ്പെടൽ: /shortlink mypowerlinks.org f3e45c66784d6142d92867be1ff0816b1606547f
 
  ഒരു വീഡിയോ ചേർക്കുക
 
@@ -629,11 +629,11 @@ Also your tutorial will be Added Your Group..."""
 
  کیسے اور کیا کرنا ہے۔
 
- مرحلہ 1: اپنے گروپ میں اس VJ-FILTER-BOT بوٹ کا انتظام کریں۔
+ مرحلہ 1: اپنے گروپ میں اس Tv Show بوٹ کا انتظام کریں۔
 
  مرحلہ 2: اپنی ویب سائٹ اور API شامل کریں۔
 
- Exp: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ Exp: /shortlink mypowerlinks.org f3e45c66784d6142d92867be1ff0816b1606547f
 
  ایک ویڈیو شامل کریں۔
 
@@ -656,11 +656,11 @@ Also your tutorial will be Added Your Group..."""
 
  કેવી રીતે અને શું કરવું
 
- પગલું 1: તમારા જૂથમાં આ VJ-FILTER-BOT બોટનું સંચાલન કરો
+ પગલું 1: તમારા જૂથમાં આ Tv Show બોટનું સંચાલન કરો
 
  પગલું 2: તમારી વેબસાઇટ અને API ઉમેરો
 
- સમાપ્તિ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ સમાપ્તિ: /shortlink mypowerlinks.org f3e45c66784d6142d92867be1ff0816b1606547f
 
  વિડિઓ ઉમેરો
 
@@ -682,11 +682,11 @@ Also your tutorial will be Added Your Group..."""
 
  ಹೇಗೆ ಮತ್ತು ಏನು ಮಾಡಬೇಕು
 
- ಹಂತ 1: ಈ ಫಿಲ್ಟರ್-ಬಾಟ್ ಬೋಟ್ ಅನ್ನು ನಿಮ್ಮ ಗುಂಪಿಗೆ ನಿರ್ವಹಿಸಿ
+ ಹಂತ 1: ಈ ಫಿಲ್ಟರ್-ಬಾಟ್ Tv Show ಗುಂಪಿಗೆ ನಿರ್ವಹಿಸಿ
 
  ಹಂತ 2: ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್ ಮತ್ತು API ಸೇರಿಸಿ
 
- ಅವಧಿ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ ಅವಧಿ: /shortlink mypowerlinks.org f3e45c66784d6142d92867be1ff0816b1606547f
 
  ವೀಡಿಯೊ ಸೇರಿಸಿ
 
@@ -708,11 +708,11 @@ Also your tutorial will be Added Your Group..."""
 
  কিভাবে এবং কি করতে হবে
 
- ধাপ 1: আপনার গ্রুপে এই VJ-FILTER-BOT বট পরিচালনা করুন
+ ধাপ 1: আপনার গ্রুপে এই Tv Show  বট পরিচালনা করুন
 
  ধাপ 2: আপনার ওয়েবসাইট এবং API যোগ করুন
 
- মেয়াদ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ মেয়াদ: /shortlink mypowerlinks.org f3e45c66784d6142d92867be1ff0816b1606547f
 
  একটি ভিডিও যোগ করুন
 
