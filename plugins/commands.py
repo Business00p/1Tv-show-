@@ -539,7 +539,7 @@ async def start(client, message):
                         InlineKeyboardButton("🕵️ How To Open Link & Verify ❓", url=VERIFY_TUTORIAL)
                     ]]
                     await message.reply_text(
-                        text="<b> <blockquote>🦚 राधे राधे 🦚\n\n ҉ ҉ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 ҉ 𝙩𝙤 ҉ 𝙏𝙫 ҉ 𝙎𝙝𝙤𝙬</blockquote> \n\n👋 Hello Boy's And Girl's \n You are not verified !\nKindly verify to continue !</b>",
+                        text="<b> <blockquote>🦚 राधे राधे 🦚\n\n ҉ ҉ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 ҉ 𝙩𝙤 ҉ 𝙏𝙫 ҉ 𝙎𝙝𝙤𝙬</blockquote> \n👋 Hello Boy's And Girl's \n You are not verified !\nKindly verify to continue !</b>",
                         protect_content=True,
                         reply_markup=InlineKeyboardMarkup(btn)
                     )
@@ -601,7 +601,7 @@ async def start(client, message):
                         InlineKeyboardButton("🕵️ How To Open Link & Verify ❓", url=VERIFY_TUTORIAL)
                     ]]
                     await message.reply_text(
-                        text="<b> <blockquote>🦚 राधे राधे 🦚 \n\n  ҉ ҉ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 ҉ 𝙩𝙤 ҉ 𝙏𝙫 ҉ 𝙎𝙝𝙤𝙬</blockquote> \n\n 👋 Hello Boy's And Girl's \n You are not verified !\nKindly verify to continue !</b>",
+                        text="<b> <blockquote>🦚 राधे राधे 🦚 \n\n  ҉ ҉ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 ҉ 𝙩𝙤 ҉ 𝙏𝙫 ҉ 𝙎𝙝𝙤𝙬</blockquote> \n 👋 Hello Boy's And Girl's \n You are not verified !\nKindly verify to continue !</b>",
                         protect_content=True,
                         reply_markup=InlineKeyboardMarkup(btn)
                     )
@@ -665,7 +665,7 @@ async def start(client, message):
                 InlineKeyboardButton("🕵️ How To Open Link & Verify ❓", url=VERIFY_TUTORIAL)
             ]]
             await message.reply_text(
-                text="<b> <blockquote>🦚 राधे राधे 🦚 \n\n  ҉ ҉ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 ҉ 𝙩𝙤 ҉ 𝙏𝙫 ҉ 𝙎𝙝𝙤𝙬</blockquote> \n\n 👋 Hello Boy's And Girl's \n You are not verified !\nKindly verify to continue !</b>",
+                text="<b> <blockquote>🦚 राधे राधे 🦚 \n\n  ҉ ҉ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 ҉ 𝙩𝙤 ҉ 𝙏𝙫 ҉ 𝙎𝙝𝙤𝙬</blockquote> \n 👋 Hello Boy's And Girl's \n You are not verified !\nKindly verify to continue !</b>",
                 protect_content=True,
                 reply_markup=InlineKeyboardMarkup(btn)
             )
