@@ -38,11 +38,11 @@ REQUEST_TO_JOIN_MODE = bool(environ.get('REQUEST_TO_JOIN_MODE', False)) # Set Tr
 TRY_AGAIN_BTN = bool(environ.get('TRY_AGAIN_BTN', False)) # Set True Or False (This try again button is only for request to join fsub not for normal fsub)
 
 # This Is Force Subscribe Channel, also known as Auth Channel 
-auth_channel = environ.get('AUTH_CHANNEL', '-1002293560200') # give your forchannel id here else leave it blank
+auth_channel = environ.get('AUTH_CHANNEL', '-1002269642690') # give your forchannel id here else leave it blank
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 
 # This Channel Is For When User Request File With command or hashtag like - /request or #request
-reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002365307120')
+reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002359073883')
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 
 # This Is Your Bot Support Group Id , Here Bot Will Not Give File Because This Is Support Group.
@@ -53,7 +53,7 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', LOG_CHANNEL))
 
 # This Channel Is For /batch command file store.
-FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1002330995675')).split()]  # For Multiple Id Use One Space Between Each.
+FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1002476582891')).split()]  # For Multiple Id Use One Space Between Each.
 
 # This Channel Is For Delete Index File, Forward Your File In This Channel Which You Want To Delete Then Bot Automatically Delete That File From Database.
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '-1002330995675').split()]  # For Multiple Id Use One Space Between Each.
@@ -90,7 +90,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/tvshowpublic')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/publicgood12')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/publictvshow')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'TvshowChat') # Support Chat Link Without https:// or @
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/TvShOw076')
 
@@ -113,10 +113,10 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 
 # Token Verification Info :
-VERIFY = bool(environ.get('VERIFY', True))
-VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'mypowerlinks.org')
-VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', 'f3e45c66784d6142d92867be1ff0816b1606547f')
-VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/tvshowbacki/2')
+VERIFY = bool(environ.get('VERIFY', False))
+VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', '')
+VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '')
+VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', '')
 
 # If You Fill Second Shortner Then Bot Attach Both First And Second Shortner And Use It For Verify.
 VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', False))
